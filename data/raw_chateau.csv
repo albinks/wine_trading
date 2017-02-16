@@ -1,0 +1,61 @@
+winery_name,region,sub_region,growth,lat,long
+Chateau Lafite,Bordeaux,Pauillac,first,45.225127,-0.772479
+Chateau Latour,Bordeaux,Pauillac,first,45.177151,-0.743347
+Chateau Margaux,Bordeaux,Margaux,first,45.044392,-0.66836
+Chateau Haut-Brion,Bordeaux,Pessac,first,44.816714,-0.608341
+Chateau Mouton Rothschild,Bordeaux,Pauillac,first,45.213986,-0.768399
+Chateau Rauzan-Segla,Bordeaux,Margaux,second,45.03545,-0.674022
+Chateau Rauzan-Gassies,Bordeaux,Margaux,second,45.036731,-0.674913
+Chateau Leoville-Las Cases,Bordeaux,St.-Julien,second,45.163827,-0.739726
+Chateau Leoville-Poyferre,Bordeaux,St.-Julien,second,45.164039,-0.741432
+Chateau Leoville-Barton,Bordeaux,St.-Julien,second,45.157392,-0.738927
+Chateau Durfort-Vivens,Bordeaux,Margaux,second,45.039909,-0.674435
+Chateau Gruaud-Larose,Bordeaux,St.-Julien,second,45.144434,-0.750593
+Chateau Lascombes,Bordeaux,Margaux,second,45.041466,-0.682761
+Chateau Brane-Cantenac,Bordeaux,Margaux,second,45.023842,-0.673548
+Chateau Pichon Longueville Baron,Bordeaux,Pauillac,second,45.176229,-0.75178
+Chateau Pichon Longueville Comtesse de Lalande,Bordeaux,Pauillac,second,45.17572,-0.748741
+Chateau Ducru-Beaucaillou,Bordeaux,St.-Julien,second,45.150806,-0.732948
+Chateau Cos d'Estournel,Bordeaux,St.-Estephe,second,45.231225,-0.775555
+Chateau Montrose,Bordeaux,St.-Estephe,second,45.246321,-0.761427
+Chateau Kirwan,Bordeaux,Margaux,third,45.026663,-0.657107
+Chateau d'Issan,Bordeaux,Margaux,third,45.031383,-0.654958
+Chateau Lagrange,Bordeaux,St.-Julien,third,45.149431,-0.772971
+Chateau Langoa-Barton,Bordeaux,St.-Julien,third,45.157392,-0.738927
+Chateau Giscours,Bordeaux,Margaux,third,45.008808,-0.6453
+Chateau Malescot St. Exupery,Bordeaux,Margaux,third,45.040677,-0.675599
+Chateau Cantenac-Brown,Bordeaux,Margaux,third,45.028379,-0.678485
+Chateau Boyd-Cantenac,Bordeaux,Margaux,third,45.022794,-0.655403
+Chateau Palmer,Bordeaux,Margaus,third,45.036716,-0.669436
+Chateau La Lagune,Bordeaux,Haut-Medoc,third,44.978965,-0.618421
+Chateau Desmirail,Bordeaux,Margaux,third,45.028515,-0.653641
+Chateau Calon-Segur,Bordeaux,St.-Estephe,third,45.26682,-0.777111
+Chateau Ferriere,Bordeaux,Margaux,third,45.043261,-0.677285
+Chateau Marquis d'Alesme Becker,Bordeaux,Margaux,third,45.043261,-0.677285
+Chateau Saint-Pierre,Bordeaux,St.-Julien,fourth,45.150314,-0.7477
+Chateau Talbot,Bordeaux,St.-Julien,fourth,45.159297,-0.756018
+Chateau Branaire-Ducru,Bordeaux,St.-Julien,fourth,45.145062,-0.738123
+Chateau Duhart-Milon,Bordeaux,Pauillac,fourth,45.197884,-0.746618
+Chateau Pouget,Bordeaux,Margaux,fourth,45.023649,-0.636747
+Chateau La Tour Carnet,Bordeaux,Haut-Medoc,fourth,45.147919,-0.793134
+Chateau Lafon-Rochet,Bordeaux,St.-Estephe,fourth,45.22935,-0.787454
+Chateau Beychevelle,Bordeaux,St.-Julien,fourth,45.145,-0.734736
+Chateau Prieure-Lichine,Bordeaux,Margaux,fourth,45.029028,-0.655338
+Chateau Marquis de Terme,Bordeaux,Margaux,fourth,45.038403,-0.676736
+Chateau Pontet-Canet,Bordeaux,Pauillac,fifth,45.208303,-0.770257
+Chateau Batailley,Bordeaux,Pauillac,fifth,45.176897,-0.772726
+Chateau Grand-Puy-Lacoste,Bordeaux,Pauillac,fifth,45.190017,-0.76856
+Chateau Grand-Puy-Ducasse,Bordeaux,Pauillac,fifth,45.199331,-0.743154
+Chateau Lynch-Bages,Bordeaux,Pauillac,fifth,45.191021,-0.753789
+Chateau Lynch-Moussas,Bordeaux,Pauillac,fifth,45.183689,-0.792691
+Chateau Dauzac,Bordeaux,Margaux,fifth,45.019452,-0.622531
+Chateau d'Armailhac,Bordeaux,Pauillac,fifth,45.211428,-0.770388
+Chateau du Tertre,Bordeaux,Margaux,fifth,45.006481,-0.680653
+Chateau Haut-Bages-Liberal,Bordeaux,Pauillac,fifth,45.182014,-0.748978
+Chateau Pedesclaux,Bordeaux,Pauillac,fifth,45.211354,-0.757863
+Chateau Belgrave,Bordeaux,Haut-Medoc,fifth,45.153382,-0.787326
+Chateau de Camensac,Bordeaux,Haut-Medoc,fifth,45.151249,-0.821856
+Chateau Cos Labory,Bordeaux,St.-Estephe,fifth,45.230819,-0.777167
+Chateau Clerc-Milon,Bordeaux,Pauillac,fifth,45.221804,-0.764298
+Chateau Croizet Bages,Bordeaux,Pauillac,fifth,45.190907,-0.756356
+Chateau Cantemerle,Bordeaux,Haut-Medoc,fifth,44.99375,-0.624135
