@@ -1,5 +1,6 @@
 import wt_functions
 import pandas as pd
+import json
 #Main function for loading data
 def main():
     #Establish file path for the raw chateau data
